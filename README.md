@@ -29,6 +29,7 @@ Ce projet Flask de connexion sécurisée est conçu pour vous aider à créer un
 ## Personnalisation
 
 - Pour ajouter ou modifier des utilisateurs, ouvrez le fichier `app.py` et mettez à jour le dictionnaire `users` avec les noms d'utilisateur et les mots de passe appropriés.
+users = {'utilisateur1': 'motdepasse1', 'utilisateur2': 'motdepasse2', 'utilisateur3': 'motdepasse3'}
 
 - Personnalisez le style en modifiant le fichier `style.css` dans le dossier `static`.
 
